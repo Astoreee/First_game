@@ -124,7 +124,7 @@ def main():
   
     listOfGeeks = [geek1, geek2]
   
-    # Initial parameters of the players
+    
     geek1Score, geek2Score = 0, 0
     geek1YFac, geek2YFac = 0, 0
   
